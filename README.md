@@ -1,2 +1,2 @@
 # HTML-CSS-Website
-Its a website created using HTML and CSS
+This website created using HTML and CSS!
